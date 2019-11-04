@@ -6,9 +6,7 @@ A style transfer algorithms learns the patrons of one picture and applies them t
 The explanation of how it works is beyong the purpose of this post, but feel free to contact me for any questions.
 
 ![GitHub Logo](/valencia_monet.jpg)
-Format: ![Alt Text](url)
 ![GitHub Logo](/valencia_van_gogh.jpg)
-Format: ![Alt Text](url)
 
 
 
